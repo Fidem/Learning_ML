@@ -5,9 +5,9 @@ Ill be doing this in Python, to test my fluency and make sure my skills are up t
 
 What IS ML?  ->  Getting a computer to do something without explicit instructions
 My goal is to have a basic example of each model type used for machine learning systems:
-  #Neural Networks (My biggest interest)
-  #Decision Trees
-  #Support Vector Machines
-  #Regression Analysis
-  #Bayesian networks
-  #Genetic Algorithms (Awesome)
+  Neural Networks (My biggest interest)
+  Decision Trees
+  Support Vector Machines
+  Regression Analysis
+  Bayesian networks
+  Genetic Algorithms (Awesome)
